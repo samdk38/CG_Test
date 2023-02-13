@@ -7,5 +7,6 @@ int main(void)
 	scanf("%d %d",&a,&b);
 	add = a+b;
 	printf("Addition of Two Veriable:%d",add);
+	printf("New Comment Added");
 	return 0;
 }
